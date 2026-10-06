@@ -2,11 +2,11 @@
 
 Web Scrobbler edits that make BTS and member solo tracks played on **YouTube Music** scrobble with the same metadata as Spotify, so they're recognized correctly by b-cd.app and other scrobble trackers.
 
-YouTube Music often reports titles, album names and artists differently from Spotify: Korean titles instead of English ones, different punctuation and spacing, different version labels. Trackers that match against Spotify's catalog don't recognize those plays, this file corrects them in WebScrobbler.
+YouTube Music often reports titles, album names and artists differently from Spotify: Korean titles instead of English ones, different punctuation and spacing, different version labels. Trackers that match against Spotify's catalog don't recognize those plays, this file corrects them in Web Scrobbler.
 
 ## What's included
 
-- **`bts-ytmusic-edits.json`**: the Web Scrobbler edits file. Needs to be added to each instance of WebScrobbler (if you use multiple windows!)
+- **`bts-ytmusic-edits.json`**: the Web Scrobbler edits file. Needs to be added to each instance of WebScrobbler (if you use multiple profiles!)
 - **[`playlist_links.md`](playlist_links.md)**: one YouTube Music playlist per album, containing the album audio tracks in order. Used to grab the actual album track (free youtube music does weird things to album tracks)
 
 ## Setup
