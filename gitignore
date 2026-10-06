@@ -1,0 +1,9 @@
+# Login credentials: never commit these
+browser*.json
+headers.txt
+
+# Local working files
+.cache/
+__pycache__/
+match_report.txt
+mv_report.txt
