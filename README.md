@@ -6,7 +6,7 @@ YouTube Music often reports titles, album names and artists differently from Spo
 
 ## What's included
 
-- **`bts-ytmusic-edits.json`**: the Web Scrobbler edits file. Needs to be added to each instance of WebScrobbler (if you use multiple profiles!)
+- **[`bts-ytmusic-edits.json`](bts-ytmusic-edits.json)**: the Web Scrobbler edits file. Needs to be added to each instance of WebScrobbler (if you use multiple profiles!)
 - **[`playlist_links.md`](playlist_links.md)**: one YouTube Music playlist per album, containing the album audio tracks in order. Used to grab the actual album track (free youtube music does weird things to album tracks)
 
 ## Setup
